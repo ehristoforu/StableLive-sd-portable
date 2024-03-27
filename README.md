@@ -19,7 +19,7 @@ Here is the list:
 - [DeFooocus](https://github.com/ehristoforu/DeFooocus)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
-- ## Installing only for Windows
+## Installing only for Windows
 
   1. Download .7z-file [there](https://huggingface.co/ehristoforu/StableLive-sd-portable/resolve/main/StableLive.7z)
   2. Unzip this file
