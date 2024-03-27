@@ -13,11 +13,11 @@ All popular SD-webuis in one repo (portable)
 We have included in StableLive the most functional webui for working with Stable Diffusion, they are all portable and there is no need to download Python and each webui separately.
 
 Here is the list:
-- AUTOMATIC1111's SD-webui
-- Forge
-- Fooocus
-- DeFooocus
-- ComfyUI
+- [AUTOMATIC1111's SD-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+- [Fooocus](https://github.com/lllyasviel/Fooocus)
+- [DeFooocus](https://github.com/ehristoforu/DeFooocus)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 - ## Installing only for Windows
 
