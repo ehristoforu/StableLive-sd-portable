@@ -16,7 +16,7 @@ Here is the list:
 - AUTOMATIC1111's SD-webui
 - Forge
 - Fooocus
-- DeFoocus
+- DeFooocus
 - ComfyUI
 
 - ## Installing only for Windows
