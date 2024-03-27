@@ -4,6 +4,6 @@ start https://huggingface.co/ehristoforu/StableLive-sd-portable/resolve/main/Sta
 
 del main-install.bat
 
-dell .
+del .
 
 exit
